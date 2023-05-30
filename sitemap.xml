@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://bustillo.github.io/demopage/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://bustillo.github.io/demopage/</loc>
+</url>
+<url>
+<loc>https://bustillo.github.io/demopage/demo-1.html</loc>
+<lastmod>2023-05-30T23:39:21+02:00</lastmod>
+</url>
+<url>
+<loc>https://bustillo.github.io/demopage/demo-2.html</loc>
+<lastmod>2023-05-30T23:42:48+02:00</lastmod>
+</url>
+</urlset>

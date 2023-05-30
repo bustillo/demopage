@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "demo page",
+    "description": "",
+    "home_page_url": "https://bustillo.github.io/demopage",
+    "feed_url": "https://bustillo.github.io/demopage/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "demo"
+    },
+    "items": [
+        {
+            "id": "https://bustillo.github.io/demopage/demo-2.html",
+            "url": "https://bustillo.github.io/demopage/demo-2.html",
+            "title": "Demo 2",
+            "summary": "Write 2",
+            "content_html": "<p>Write 2</p>",
+            "author": {
+                "name": "demo"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-30T23:42:48+02:00",
+            "date_modified": "2023-05-30T23:42:48+02:00"
+        },
+        {
+            "id": "https://bustillo.github.io/demopage/demo-1.html",
+            "url": "https://bustillo.github.io/demopage/demo-1.html",
+            "title": "Demo 1",
+            "summary": "Write demo 1",
+            "content_html": "<p>Write demo 1</p>\n",
+            "author": {
+                "name": "demo"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-30T23:39:21+02:00",
+            "date_modified": "2023-05-30T23:39:21+02:00"
+        }
+    ]
+}

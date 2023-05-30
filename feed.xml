@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>demo page</title>
+    <link href="https://bustillo.github.io/demopage/feed.xml" rel="self" />
+    <link href="https://bustillo.github.io/demopage" />
+    <updated>2023-05-30T23:42:48+02:00</updated>
+    <author>
+        <name>demo</name>
+    </author>
+    <id>https://bustillo.github.io/demopage</id>
+
+    <entry>
+        <title>Demo 2</title>
+        <author>
+            <name>demo</name>
+        </author>
+        <link href="https://bustillo.github.io/demopage/demo-2.html"/>
+        <id>https://bustillo.github.io/demopage/demo-2.html</id>
+
+        <updated>2023-05-30T23:42:48+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Write 2
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Write 2</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Demo 1</title>
+        <author>
+            <name>demo</name>
+        </author>
+        <link href="https://bustillo.github.io/demopage/demo-1.html"/>
+        <id>https://bustillo.github.io/demopage/demo-1.html</id>
+
+        <updated>2023-05-30T23:39:21+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Write demo 1
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Write demo 1</p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>
